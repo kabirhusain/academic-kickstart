@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "An example JRNL article"
 authors:
 - admin
 - Robert Ford
