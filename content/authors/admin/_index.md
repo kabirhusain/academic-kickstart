@@ -64,7 +64,7 @@ email: ""
 
 I am a postdoc with [Arvind Murugan](http://muruganlab.uchicago.edu), in the Department of Physics at the University of Chicago.
 
-I work in the areas of molecular evolution and cellular sensing. As a 'qualitative biologist', my interests are in using techniques and approaches from physics to find new ways of thinking about biological systems. 
+I work in the areas of molecular evolution and cellular sensing. As something of a 'qualitative biologist', my interests are broadly in using techniques and approaches from physics to find new ways of thinking about biological systems.
 
 Trained as a theorist, I am now experiencing the joys, such as they are, of experimental life. My most recent work involves yeast genetics and basic molecular biology, which is a new and wonderful thing to me; this is made possible by the kindness and expertise of [Rama Ranganthan's](http://ranganathanlab.org/) group.
 
