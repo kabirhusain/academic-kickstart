@@ -1,18 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kalman-like Self-Tuned Sensitivity in Biophysical Sensing"
-authors: 
+title: "Anillin Promotes Cell Contractility by Cyclic Resetting of RhoA Residence Kinetics"
+authors:
+- Srikanth Budnar 
 - admin
-- Weerapat Pittayakanchit
-- Gopal Pattanayak
-- Michael J. Rust
-- Arvind Murugan
-date: 2019-09-25T11:46:27-04:00
-doi: "10.1016/j.cels.2019.08.008"
+- Guillermo A. Gomez
+- Maedeh Naghibosadat 
+- Amrita Varma
+- Suzie Verma
+- Nicholas A. Hamilton
+- Richard G. Morris
+- Alpha S. Yap
+date: 2019-06-17T16:17:03-04:00
+doi: "10.1016/j.devcel.2019.04.031"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-25T11:46:27-04:00
+publishDate: 2020-05-25T16:17:03-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +25,13 @@ publishDate: 2020-05-25T11:46:27-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cell Systems"
-publication_short: ""
+publication: "Developmental Cell"
+publication_short: "Dev. Cell."
 
-abstract: "Living organisms need to be sensitive to a changing environment while also ignoring uninformative environmental fluctuations. Here, we argue that living cells can navigate these conflicting demands by dynamically tuning their environmental sensitivity. We analyze the circadian clock in Synechococcus elongatus, showing that clock-metabolism coupling can detect mismatch between clock predictions and the day-night light cycle, temporarily raise the clock’s sensitivity to light changes, and thus re-entraining faster. We find analogous behavior in recent experiments on switching between slow and fast osmotic-stress-response pathways in yeast. In both cases, cells can raise their sensitivity to new external information in epochs of frequent challenging stress, much like a Kalman filter with adaptive gain in signal processing. Our work suggests a new class of experiments that probe the history dependence of environmental sensitivity in biophysical sensing mechanisms."
+abstract: "RhoA stimulates cell contractility by recruiting downstream effectors to the cortical plasma membrane. We now show that direct binding by anillin is required for effective signaling: this antagonizes the otherwise labile membrane association of GTP-RhoA to promote effector recruitment. However, since its binding to RhoA blocks access by other effectors, we demonstrate that anillin must also concentrate membrane phosphoinositide-4,5-P2 (PIP2) to promote signaling. We propose and test a sequential pathway where GTP-RhoA first binds to anillin and then is retained at the membrane by PIP2 after it disengages from anillin. Importantly, re-binding of membrane GTP-RhoA to anillin, regulated by the cortical density of anillin, creates cycles through this pathway. These cycles repeatedly reset the dissociation kinetics of GTP-RhoA, substantially increasing its dwell time to recruit effectors. Thus, anillin regulates RhoA signaling by a paradigm of kinetic scaffolding that may apply to other signals whose efficacy depends on their cortical dwell times."
 
 # Summary. An optional shortened abstract.
-summary: "How cells choose when to pay attention."
+summary: ""
 
 tags: []
 categories: []
@@ -49,8 +53,6 @@ url_project:
 url_slides:
 url_source:
 url_video:
-
-url_preprint: "https://arxiv.org/abs/1903.07103"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

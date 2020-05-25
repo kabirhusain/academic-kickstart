@@ -1,18 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kalman-like Self-Tuned Sensitivity in Biophysical Sensing"
-authors: 
+title: "Physical Constraints on Epistasis"
+authors:
 - admin
-- Weerapat Pittayakanchit
-- Gopal Pattanayak
-- Michael J. Rust
 - Arvind Murugan
-date: 2019-09-25T11:46:27-04:00
-doi: "10.1016/j.cels.2019.08.008"
+date: 2020-05-12T15:07:20-04:00
+doi: "10.1093/molbev/msaa124"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-25T11:46:27-04:00
+publishDate: 2020-05-25T15:07:20-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +18,13 @@ publishDate: 2020-05-25T11:46:27-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cell Systems"
-publication_short: ""
+publication: "Molecular Biology and Evolution"
+publication_short: "Mol. Biol. Evol."
 
-abstract: "Living organisms need to be sensitive to a changing environment while also ignoring uninformative environmental fluctuations. Here, we argue that living cells can navigate these conflicting demands by dynamically tuning their environmental sensitivity. We analyze the circadian clock in Synechococcus elongatus, showing that clock-metabolism coupling can detect mismatch between clock predictions and the day-night light cycle, temporarily raise the clock’s sensitivity to light changes, and thus re-entraining faster. We find analogous behavior in recent experiments on switching between slow and fast osmotic-stress-response pathways in yeast. In both cases, cells can raise their sensitivity to new external information in epochs of frequent challenging stress, much like a Kalman filter with adaptive gain in signal processing. Our work suggests a new class of experiments that probe the history dependence of environmental sensitivity in biophysical sensing mechanisms."
+abstract: "Living systems evolve one mutation at a time, but a single mutation can alter the effect of subsequent mutations. The underlying mechanistic determinants of such epistasis are unclear. Here, we demonstrate that the physical dynamics of a biological system can generically constrain epistasis. We analyze models and experimental data on proteins and regulatory networks. In each, we find that if the long-time physical dynamics is dominated by a slow, collective mode, then the dimensionality of mutational effects is reduced. Consequently, epistatic coefficients for different combinations of mutations are no longer independent, even if individually strong. Such epistasis can be summarized as resulting from a global non-linearity applied to an underlying linear trait, i.e., as global epistasis. This constraint, in turn, reduces the ruggedness of the sequence-to-function map. By providing a generic mechanistic origin for experimentally observed global epistasis, our work suggests that slow collective physical modes can make biological systems evolvable."
 
 # Summary. An optional shortened abstract.
-summary: "How cells choose when to pay attention."
+summary: "Dimensional reduction by the physics of biological systems."
 
 tags: []
 categories: []
@@ -49,8 +46,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-
-url_preprint: "https://arxiv.org/abs/1903.07103"
+url_preprint: https://arxiv.org/abs/1910.09491
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

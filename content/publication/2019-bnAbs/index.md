@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kalman-like Self-Tuned Sensitivity in Biophysical Sensing"
-authors: 
+title: "Tuning environmental timescales to evolve and maintain generalists "
+authors:
+- Vedant Sachdeva
 - admin
-- Weerapat Pittayakanchit
-- Gopal Pattanayak
-- Michael J. Rust
+- Jiming Sheng
+- Shenshen Wang
 - Arvind Murugan
-date: 2019-09-25T11:46:27-04:00
-doi: "10.1016/j.cels.2019.08.008"
+date: 2020-03-27T15:07:31-04:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-25T11:46:27-04:00
+publishDate: 2020-05-25T15:07:31-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +21,13 @@ publishDate: 2020-05-25T11:46:27-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cell Systems"
-publication_short: ""
+publication: "to appear in PNAS"
+publication_short: "to appear in PNAS"
 
-abstract: "Living organisms need to be sensitive to a changing environment while also ignoring uninformative environmental fluctuations. Here, we argue that living cells can navigate these conflicting demands by dynamically tuning their environmental sensitivity. We analyze the circadian clock in Synechococcus elongatus, showing that clock-metabolism coupling can detect mismatch between clock predictions and the day-night light cycle, temporarily raise the clock’s sensitivity to light changes, and thus re-entraining faster. We find analogous behavior in recent experiments on switching between slow and fast osmotic-stress-response pathways in yeast. In both cases, cells can raise their sensitivity to new external information in epochs of frequent challenging stress, much like a Kalman filter with adaptive gain in signal processing. Our work suggests a new class of experiments that probe the history dependence of environmental sensitivity in biophysical sensing mechanisms."
+abstract: "Natural environments can present diverse challenges, but some genotypes remain fit across many environments. Such 'generalists' can be hard to evolve, out-competed by specialists fitter in any particular environment. Here, inspired by the search for broadly-neutralising antibodies during B-cell affinity maturation, we demonstrate that environmental changes on an intermediate timescale can reliably evolve generalists, even when faster or slower environmental changes are unable to do so. We find that changing environments on timescales comparable to evolutionary transients in a population enhances the rate of evolving generalists from specialists, without enhancing the reverse process. The yield of generalists is further increased in more complex dynamic environments, such as a 'chirp' of increasing frequency. Our work offers design principles for how non-equilibrium fitness 'seascapes' can dynamically funnel populations to genotypes unobtainable in static environments."
 
 # Summary. An optional shortened abstract.
-summary: "How cells choose when to pay attention."
+summary: ""
 
 tags: []
 categories: []
@@ -49,8 +49,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-
-url_preprint: "https://arxiv.org/abs/1903.07103"
+url_preprint: https://arxiv.org/abs/1906.11924
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
