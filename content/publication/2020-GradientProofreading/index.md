@@ -57,7 +57,12 @@ url_preprint: "https://www.biorxiv.org/content/10.1101/2020.05.23.112664v1"
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

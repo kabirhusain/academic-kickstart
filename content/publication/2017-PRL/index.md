@@ -1,18 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tuning environmental timescales to evolve and maintain generalists "
-authors:
-- Vedant Sachdeva
+title: "Emergent structures in an active polar fluid: dynamics of shape, scattering, and merger"
+authors: 
 - admin
-- Jiming Sheng
-- Shenshen Wang
-- Arvind Murugan
-date: 2020-03-27T15:07:31-04:00
-doi: ""
+- Madan Rao
+date: 2017-02-17T18:24:07-04:00
+doi: "10.1103/PhysRevLett.118.078104"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-25T15:07:31-04:00
+publishDate: 2020-05-25T18:24:07-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +18,13 @@ publishDate: 2020-05-25T15:07:31-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in PNAS"
-publication_short: "to appear in PNAS"
+publication: "Physical Review Letters"
+publication_short: "Phys Rev Lett"
 
-abstract: "Natural environments can present diverse challenges, but some genotypes remain fit across many environments. Such 'generalists' can be hard to evolve, out-competed by specialists fitter in any particular environment. Here, inspired by the search for broadly-neutralising antibodies during B-cell affinity maturation, we demonstrate that environmental changes on an intermediate timescale can reliably evolve generalists, even when faster or slower environmental changes are unable to do so. We find that changing environments on timescales comparable to evolutionary transients in a population enhances the rate of evolving generalists from specialists, without enhancing the reverse process. The yield of generalists is further increased in more complex dynamic environments, such as a 'chirp' of increasing frequency. Our work offers design principles for how non-equilibrium fitness 'seascapes' can dynamically funnel populations to genotypes unobtainable in static environments."
+abstract: "Spatially localized defect structures emerge spontaneously in a hydrodynamic description of an active polar fluid comprising polar “actin” filaments and “myosin” motor proteins that (un)bind to filaments and exert active contractile stresses. These emergent defect structures are characterized by distinct textures and can be either static or mobile—we derive effective equations of motion for these “extended particles” and analyze their shape, kinetics, interactions, and scattering. Depending on the impact parameter and propulsion speed, these active defects undergo elastic scattering or merger. Our results are relevant for the dynamics of actomyosin-dense structures at the cell cortex, reconstituted actomyosin complexes, and 2D active colloidal gels."
 
 # Summary. An optional shortened abstract.
-summary: "To learn what's common, you've got to see many different examples -- and each before you forget the last. We show how evolution can sometimes behave the same way, with consequences for our immune systems."
+summary: ""
 
 tags: []
 categories: []
@@ -49,7 +46,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-url_preprint: https://arxiv.org/abs/1906.11924
+url_preprint: "https://arxiv.org/abs/1605.00149"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

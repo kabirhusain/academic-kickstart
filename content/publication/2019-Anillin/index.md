@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Anillin Promotes Cell Contractility by Cyclic Resetting of RhoA Residence Kinetics"
+title: "Anillin promotes cell contractility by cyclic resetting of RhoA residence kinetics"
 authors:
 - Srikanth Budnar 
 - admin
@@ -26,12 +26,12 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Developmental Cell"
-publication_short: "Dev. Cell."
+publication_short: "Dev. Cell"
 
 abstract: "RhoA stimulates cell contractility by recruiting downstream effectors to the cortical plasma membrane. We now show that direct binding by anillin is required for effective signaling: this antagonizes the otherwise labile membrane association of GTP-RhoA to promote effector recruitment. However, since its binding to RhoA blocks access by other effectors, we demonstrate that anillin must also concentrate membrane phosphoinositide-4,5-P2 (PIP2) to promote signaling. We propose and test a sequential pathway where GTP-RhoA first binds to anillin and then is retained at the membrane by PIP2 after it disengages from anillin. Importantly, re-binding of membrane GTP-RhoA to anillin, regulated by the cortical density of anillin, creates cycles through this pathway. These cycles repeatedly reset the dissociation kinetics of GTP-RhoA, substantially increasing its dwell time to recruit effectors. Thus, anillin regulates RhoA signaling by a paradigm of kinetic scaffolding that may apply to other signals whose efficacy depends on their cortical dwell times."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Sometimes, to make something happen, all you need to do is give it more time. We discuss the case of a *kinetic* scaffold, which promotes signalling by inducing a delay."
 
 tags: []
 categories: []

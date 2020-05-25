@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kalman-like Self-Tuned Sensitivity in Biophysical Sensing"
+title: "Kalman-like self-tuned sensitivity in biophysical sensing"
 authors: 
 - admin
 - Weerapat Pittayakanchit
@@ -27,7 +27,7 @@ publication_short: ""
 abstract: "Living organisms need to be sensitive to a changing environment while also ignoring uninformative environmental fluctuations. Here, we argue that living cells can navigate these conflicting demands by dynamically tuning their environmental sensitivity. We analyze the circadian clock in Synechococcus elongatus, showing that clock-metabolism coupling can detect mismatch between clock predictions and the day-night light cycle, temporarily raise the clock’s sensitivity to light changes, and thus re-entraining faster. We find analogous behavior in recent experiments on switching between slow and fast osmotic-stress-response pathways in yeast. In both cases, cells can raise their sensitivity to new external information in epochs of frequent challenging stress, much like a Kalman filter with adaptive gain in signal processing. Our work suggests a new class of experiments that probe the history dependence of environmental sensitivity in biophysical sensing mechanisms."
 
 # Summary. An optional shortened abstract.
-summary: "How cells choose when to pay attention."
+summary: "Not all information is useful. We show how cells can decide when, and how much, to listen to their environment."
 
 tags: []
 categories: []

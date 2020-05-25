@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tuning environmental timescales to evolve and maintain generalists "
+title: "A DNA-based T-cell receptor reveals a role for receptor clustering in ligand discrimination"
 authors:
-- Vedant Sachdeva
+- Marcus J. Taylor
 - admin
-- Jiming Sheng
-- Shenshen Wang
-- Arvind Murugan
-date: 2020-03-27T15:07:31-04:00
-doi: ""
+- Zev J. Gartner
+- Satyajit Mayor
+- Ronald D. Vale
+date: 2017-03-23T16:35:01-04:00
+doi: "10.1016/j.cell.2017.03.006"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-25T15:07:31-04:00
+publishDate: 2020-05-25T16:35:01-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +21,13 @@ publishDate: 2020-05-25T15:07:31-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in PNAS"
-publication_short: "to appear in PNAS"
+publication: "Cell"
+publication_short: "Cell"
 
-abstract: "Natural environments can present diverse challenges, but some genotypes remain fit across many environments. Such 'generalists' can be hard to evolve, out-competed by specialists fitter in any particular environment. Here, inspired by the search for broadly-neutralising antibodies during B-cell affinity maturation, we demonstrate that environmental changes on an intermediate timescale can reliably evolve generalists, even when faster or slower environmental changes are unable to do so. We find that changing environments on timescales comparable to evolutionary transients in a population enhances the rate of evolving generalists from specialists, without enhancing the reverse process. The yield of generalists is further increased in more complex dynamic environments, such as a 'chirp' of increasing frequency. Our work offers design principles for how non-equilibrium fitness 'seascapes' can dynamically funnel populations to genotypes unobtainable in static environments."
+abstract: "A T cell mounts an immune response by measuring the binding strength of its T cell receptor (TCR) for peptide-loaded MHCs (pMHC) on an antigen-presenting cell. How T cells convert the lifetime of the extracellular TCR-pMHC interaction into an intracellular signal remains unknown. Here, we developed a synthetic signaling system in which the extracellular domains of the TCR and pMHC were replaced with short hybridizing strands of DNA. Remarkably, T cells can discriminate between DNA ligands differing by a single base pair. Single-molecule imaging reveals that signaling is initiated when single ligand-bound receptors are converted into clusters, a time-dependent process requiring ligands with longer bound times. A computation model reveals that receptor clustering serves a kinetic proofreading function, enabling ligands with longer bound times to have disproportionally greater signaling outputs. These results suggest that spatial reorganization of receptors plays an important role in ligand discrimination in T cell signaling."
 
 # Summary. An optional shortened abstract.
-summary: "To learn what's common, you've got to see many different examples -- and each before you forget the last. We show how evolution can sometimes behave the same way, with consequences for our immune systems."
+summary: ""
 
 tags: []
 categories: []
@@ -49,7 +49,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-url_preprint: https://arxiv.org/abs/1906.11924
+url_preprint: https://www.biorxiv.org/content/10.1101/062877v2
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

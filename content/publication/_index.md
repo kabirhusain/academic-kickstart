@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications/Preprints
 
 # View.
 #   1 = List
