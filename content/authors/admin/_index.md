@@ -26,7 +26,7 @@ education:
     institution: NCBS, Bangaore
     year: 2017
   - course: B. Sc.
-    institution: Brandeis University
+    institution: Brandeis University, Waltham MA
     year: 2009
 
 # Social/Academic Networking
@@ -62,7 +62,7 @@ email: ""
 #- Visitors
 ---
 
-I am a postdoc with [Arvind Murugan](http://muruganlab.uchicago.edu), in the Department of Physics at the University of Chicago.
+I am a [JSMF](https://www.jsmf.org/programs/cs/) postdoc with [Arvind Murugan](http://muruganlab.uchicago.edu), in the Department of Physics at the University of Chicago.
 
 I work in the areas of molecular evolution and cellular sensing. As something of a 'qualitative biologist', my interests are broadly in using techniques and approaches from physics to find new ways of thinking about biological systems.
 

@@ -9,7 +9,7 @@ authors:
 - Shenshen Wang
 - Arvind Murugan
 date: 2020-03-27T15:07:31-04:00
-doi: ""
+doi: "10.1073/pnas.1914586117"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-25T15:07:31-04:00
@@ -21,8 +21,8 @@ publishDate: 2020-05-25T15:07:31-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*to appear in* PNAS"
-publication_short: "*to appear in* PNAS"
+publication: "PNAS"
+publication_short: "PNAS"
 
 abstract: "Natural environments can present diverse challenges, but some genotypes remain fit across many environments. Such 'generalists' can be hard to evolve, out-competed by specialists fitter in any particular environment. Here, inspired by the search for broadly-neutralising antibodies during B-cell affinity maturation, we demonstrate that environmental changes on an intermediate timescale can reliably evolve generalists, even when faster or slower environmental changes are unable to do so. We find that changing environments on timescales comparable to evolutionary transients in a population enhances the rate of evolving generalists from specialists, without enhancing the reverse process. The yield of generalists is further increased in more complex dynamic environments, such as a 'chirp' of increasing frequency. Our work offers design principles for how non-equilibrium fitness 'seascapes' can dynamically funnel populations to genotypes unobtainable in static environments."
 
