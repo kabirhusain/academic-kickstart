@@ -34,10 +34,10 @@
   <div class="media-body">
 
     <!-- <h5 class="article-title mb-0 mt-0"> -->
-      <b><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a></b>
+      <b><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a></b> &nbsp; {{- .Date.Format "2006" -}} 
     <!-- </h5> -->
     <br>
-    {{- $item.Params.publication | markdownify -}}
+    {{- $item.Params.publication | markdownify -}}  
 
     {{ with $summary }}
     <div class="article-style">

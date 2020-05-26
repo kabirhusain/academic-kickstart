@@ -9,7 +9,8 @@ title: Publications/Preprints
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
+# Header
 header:
-  caption: ""
   image: ""
+  caption: ""
 ---

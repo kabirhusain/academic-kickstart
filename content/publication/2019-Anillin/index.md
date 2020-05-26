@@ -53,6 +53,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+url_preprint: https://www.biorxiv.org/content/10.1101/282756v1
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
