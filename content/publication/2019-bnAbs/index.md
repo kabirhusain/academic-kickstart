@@ -3,8 +3,8 @@
 
 title: "Tuning environmental timescales to evolve and maintain generalists "
 authors:
-- Vedant Sachdeva
-- admin
+- Vedant Sachdeva*
+- Kabir Husain*
 - Jiming Sheng
 - Shenshen Wang
 - Arvind Murugan

@@ -9,7 +9,9 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span>
       {{- if and $profile_page $link_authors -}}
-        <a href="{{$profile_page.RelPermalink}}"><b>{{$name}}</b></a>
+        <!-- <a href="{{$profile_page.RelPermalink}}"> --><b>{{$name}}</b>
+      {{- else if in $name "Kabir Husain" -}}
+        <b>{{$name}}</b>
       {{- else -}}
         {{$name}}
       {{- end -}}
